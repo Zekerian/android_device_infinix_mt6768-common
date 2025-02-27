@@ -1,0 +1,1 @@
+# android_device_xiaomi_mt6768-common
