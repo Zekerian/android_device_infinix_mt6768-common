@@ -1,1 +1,1 @@
-# android_device_xiaomi_mt6768-common
+# android_device_transsion_mt6768-common
